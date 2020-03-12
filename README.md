@@ -1,1 +1,3 @@
-# LoopLab - Bootstrap Tutorial - Social Media Landing Theme
+# LoopLab - Social Media Landing Theme
+
+## Bootstrap Tutorial
